@@ -12,3 +12,4 @@ C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\obj\Debug\net
 C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\obj\Debug\net10.0\proyecto_GT13GP06.pdb
 C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\obj\Debug\net10.0\proyecto_GT13GP06.genruntimeconfig.cache
 C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\obj\Debug\net10.0\ref\proyecto_GT13GP06.dll
+C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\obj\Debug\net10.0\proyecto_GT13GP06.sourcelink.json
