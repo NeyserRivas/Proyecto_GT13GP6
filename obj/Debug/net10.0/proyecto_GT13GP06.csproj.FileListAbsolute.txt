@@ -1,0 +1,14 @@
+C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\bin\Debug\net10.0\proyecto_GT13GP06.exe
+C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\bin\Debug\net10.0\proyecto_GT13GP06.deps.json
+C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\bin\Debug\net10.0\proyecto_GT13GP06.runtimeconfig.json
+C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\bin\Debug\net10.0\proyecto_GT13GP06.dll
+C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\bin\Debug\net10.0\proyecto_GT13GP06.pdb
+C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\obj\Debug\net10.0\proyecto_GT13GP06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\obj\Debug\net10.0\proyecto_GT13GP06.AssemblyInfoInputs.cache
+C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\obj\Debug\net10.0\proyecto_GT13GP06.AssemblyInfo.cs
+C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\obj\Debug\net10.0\proyecto_GT13GP06.csproj.CoreCompileInputs.cache
+C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\obj\Debug\net10.0\proyecto_GT13GP06.dll
+C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\obj\Debug\net10.0\refint\proyecto_GT13GP06.dll
+C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\obj\Debug\net10.0\proyecto_GT13GP06.pdb
+C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\obj\Debug\net10.0\proyecto_GT13GP06.genruntimeconfig.cache
+C:\Users\neyse\OneDrive\Desktop\Proyecto_GT13GP6\proyecto_GT13GP06\obj\Debug\net10.0\ref\proyecto_GT13GP06.dll
